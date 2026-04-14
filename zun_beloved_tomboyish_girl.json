@@ -1,0 +1,919 @@
+{
+  "metadata": {
+    "title": "Beloved Tomboyish Girl",
+    "artist": "Zun",
+    "url": "https://www.hooktheory.com/theorytab/view/zun/beloved-tomboyish-girl",
+    "original_key": "C",
+    "mode": "minor",
+    "normalized_key": "C",
+    "bpm": 152,
+    "time_signature": "4/4",
+    "scraped_at": "2026-04-14T03:57:33.297958"
+  },
+  "sections": [
+    {
+      "name": "Verse",
+      "hookpad_hash": "Rzoj-PjQxDe",
+      "harmony": [
+        {
+          "chord_roman": "I",
+          "chord_original": "C",
+          "chord_normalized": "C",
+          "beat_start": 1,
+          "beat_duration": 16,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vi",
+          "chord_original": "G#",
+          "chord_normalized": "G#",
+          "beat_start": 17,
+          "beat_duration": 12,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "iii",
+          "chord_original": "D#",
+          "chord_normalized": "D#",
+          "beat_start": 29,
+          "beat_duration": 3,
+          "inversion": 2
+        },
+        {
+          "chord_roman": "vii°",
+          "chord_original": "A#",
+          "chord_normalized": "A#",
+          "beat_start": 32,
+          "beat_duration": 1,
+          "inversion": 0
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 1,
+          "beat_duration": 0.75,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 1.75,
+          "beat_duration": 0.75,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 2.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 3,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 5.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 6,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 6.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 7.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 8,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 8.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 9,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 9.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 10,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 10.5,
+          "beat_duration": 2.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 13,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 13.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 14,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 14.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 15.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 16,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 17,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 17.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 18,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 18.5,
+          "beat_duration": 2.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 21,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 21.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 22,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 22.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 23.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 24,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 24.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 25,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 25.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 26,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 26.5,
+          "beat_duration": 2.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 29,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 29.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 30,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 30.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 31.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 32,
+          "beat_duration": 1,
+          "is_rest": false
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus and Chorus",
+      "hookpad_hash": "JNgqQQKXwgr",
+      "harmony": [
+        {
+          "chord_roman": "vi",
+          "chord_original": "B",
+          "chord_normalized": "G#",
+          "beat_start": 1,
+          "beat_duration": 1.5,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vii°",
+          "chord_original": "C#",
+          "chord_normalized": "A#",
+          "beat_start": 2.5,
+          "beat_duration": 2.5,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D#",
+          "chord_normalized": "C",
+          "beat_start": 5,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vii°",
+          "chord_original": "C#",
+          "chord_normalized": "A#",
+          "beat_start": 7,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D#",
+          "chord_normalized": "C",
+          "beat_start": 9,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "iii",
+          "chord_original": "F#",
+          "chord_normalized": "D#",
+          "beat_start": 11,
+          "beat_duration": 2,
+          "inversion": 2
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "G#",
+          "chord_normalized": "F",
+          "beat_start": 13,
+          "beat_duration": 4,
+          "inversion": 1
+        },
+        {
+          "chord_roman": "vi",
+          "chord_original": "B",
+          "chord_normalized": "G#",
+          "beat_start": 17,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vii°",
+          "chord_original": "C#",
+          "chord_normalized": "A#",
+          "beat_start": 19,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "A#",
+          "chord_normalized": "G",
+          "beat_start": 21,
+          "beat_duration": 4,
+          "inversion": 1
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D#",
+          "chord_normalized": "C",
+          "beat_start": 25,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I7",
+          "chord_original": "D#maj7",
+          "chord_normalized": "Cmaj7",
+          "beat_start": 27,
+          "beat_duration": 2,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "G#",
+          "chord_normalized": "F",
+          "beat_start": 29,
+          "beat_duration": 4,
+          "inversion": 1
+        },
+        {
+          "chord_roman": "vi",
+          "chord_original": "B",
+          "chord_normalized": "G#",
+          "beat_start": 33,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vii°",
+          "chord_original": "C#",
+          "chord_normalized": "A#",
+          "beat_start": 35,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D#",
+          "chord_normalized": "C",
+          "beat_start": 37,
+          "beat_duration": 4,
+          "inversion": 0
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 1,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 1.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 2,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 2.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 1,
+          "beat_start": 3.5,
+          "beat_duration": 0.25,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 0,
+          "beat_start": 3.75,
+          "beat_duration": 0.25,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 4,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 5,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 7,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 1,
+          "beat_start": 7.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 8,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 8.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 9,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 10.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 11,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 11.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 12,
+          "beat_duration": 0.16,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 12.165,
+          "beat_duration": 0.16,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 12.329999999999998,
+          "beat_duration": 0.17,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 1,
+          "beat_start": 12.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 13,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 15.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 16,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 16.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 17,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 18.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 1,
+          "beat_start": 19,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 19.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 1,
+          "beat_start": 20,
+          "beat_duration": 0.16,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 20.165,
+          "beat_duration": 0.16,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 1,
+          "beat_start": 20.33,
+          "beat_duration": 0.17,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 20.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 1,
+          "beat_start": 21,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 24,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 2,
+          "beat_start": 25,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 2,
+          "beat_start": 26.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 27,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 2,
+          "beat_start": 27.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 2,
+          "beat_start": 28,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 28.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 2,
+          "beat_start": 29,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 29.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": 1,
+          "beat_start": 30,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 2,
+          "beat_start": 30.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 31,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": 1,
+          "beat_start": 31.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 1,
+          "beat_start": 32,
+          "beat_duration": 0.13,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 32.125,
+          "beat_duration": 0.88,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 2,
+          "beat_start": 33,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 33.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": 1,
+          "beat_start": 34,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 2,
+          "beat_start": 34.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 35,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": 1,
+          "beat_start": 35.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 1,
+          "beat_start": 36,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 36.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 2,
+          "beat_start": 37,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 38.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 2,
+          "beat_start": 39,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 1,
+          "beat_start": 39.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 1,
+          "beat_start": 40,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 1,
+          "beat_start": 40.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,751 @@
+{
+  "metadata": {
+    "title": "A Punk",
+    "artist": "Vampire Weekend",
+    "url": "https://www.hooktheory.com/theorytab/view/vampire-weekend/a-punk",
+    "original_key": "D",
+    "mode": "major",
+    "normalized_key": "C",
+    "bpm": 176,
+    "time_signature": "4/4",
+    "scraped_at": "2026-04-14T04:00:38.975619"
+  },
+  "sections": [
+    {
+      "name": "Verse",
+      "hookpad_hash": "ANmpyEDPgyM",
+      "harmony": [
+        {
+          "chord_roman": "V",
+          "chord_original": "A",
+          "chord_normalized": "G",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "G",
+          "chord_normalized": "F",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 5,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "A",
+          "chord_normalized": "G",
+          "beat_start": 9,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "G",
+          "chord_normalized": "F",
+          "beat_start": 11,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 13,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "A",
+          "chord_normalized": "G",
+          "beat_start": 17,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "G",
+          "chord_normalized": "F",
+          "beat_start": 19,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 21,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "A",
+          "chord_normalized": "G",
+          "beat_start": 25,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V7",
+          "chord_original": "Amaj7",
+          "chord_normalized": "Gmaj7",
+          "beat_start": 27,
+          "beat_duration": 2,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 29,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "A",
+          "chord_normalized": "G",
+          "beat_start": 33,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V7",
+          "chord_original": "Amaj7",
+          "chord_normalized": "Gmaj7",
+          "beat_start": 35,
+          "beat_duration": 2,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 37,
+          "beat_duration": 4,
+          "inversion": 0
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 1,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 1.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 2,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 3,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 3.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 4.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 5.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 6.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 7,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 7.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 8.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 10,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 10.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 11.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 12,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 13,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 14,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 14.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 17,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 18,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 18.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 19.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 21,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 22,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 22.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 23.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 25,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 27,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 28.5,
+          "beat_duration": 2.5,
+          "is_rest": false
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "hookpad_hash": "eWxLOXN_gaK",
+      "harmony": [
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 1,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 3,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 5,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "ii7",
+          "chord_original": "Emaj7",
+          "chord_normalized": "Dmaj7",
+          "beat_start": 9,
+          "beat_duration": 4,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 13,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 17,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 19,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 21,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "ii7",
+          "chord_original": "Emaj7",
+          "chord_normalized": "Dmaj7",
+          "beat_start": 25,
+          "beat_duration": 4,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 29,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 33,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 35,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 37,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "ii7",
+          "chord_original": "Emaj7",
+          "chord_normalized": "Dmaj7",
+          "beat_start": 41,
+          "beat_duration": 4,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 45,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 49,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 51,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "D",
+          "chord_normalized": "C",
+          "beat_start": 53,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "ii7",
+          "chord_original": "Emaj7",
+          "chord_normalized": "Dmaj7",
+          "beat_start": 57,
+          "beat_duration": 8,
+          "inversion": 3
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 1,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 3,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 5,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 7,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": 0,
+          "beat_start": 9,
+          "beat_duration": 3,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 12,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 12.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 13,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 15,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 17,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 19,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 21,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 23,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": 0,
+          "beat_start": 25,
+          "beat_duration": 3,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 28,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 28.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 29,
+          "beat_duration": 4,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 33,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 33.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 34.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": -1,
+          "beat_start": 36,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 36.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 37.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 38.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 40,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 41,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 49,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 49.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 50.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": -1,
+          "beat_start": 52,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 52.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 53.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 54.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 56,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 57,
+          "beat_duration": 1,
+          "is_rest": false
+        }
+      ]
+    }
+  ]
+}

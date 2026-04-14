@@ -1,0 +1,643 @@
+{
+  "metadata": {
+    "title": "House Of Gold",
+    "artist": "Twenty One Pilots",
+    "url": "https://www.hooktheory.com/theorytab/view/twenty-one-pilots/house-of-gold",
+    "original_key": "C",
+    "mode": "major",
+    "normalized_key": "C",
+    "bpm": 115,
+    "time_signature": "4/4",
+    "scraped_at": "2026-04-14T04:23:45.207822"
+  },
+  "sections": [
+    {
+      "name": "Chorus",
+      "hookpad_hash": "LAgQPjzlmyO",
+      "harmony": [
+        {
+          "chord_roman": "I",
+          "chord_original": "C",
+          "chord_normalized": "C",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "F",
+          "chord_normalized": "F",
+          "beat_start": 5,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vi",
+          "chord_original": "A",
+          "chord_normalized": "A",
+          "beat_start": 9,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "G",
+          "chord_normalized": "G",
+          "beat_start": 13,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "C",
+          "chord_normalized": "C",
+          "beat_start": 17,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "F",
+          "chord_normalized": "F",
+          "beat_start": 21,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "C",
+          "chord_normalized": "C",
+          "beat_start": 25,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "G",
+          "chord_normalized": "G",
+          "beat_start": 27,
+          "beat_duration": 2,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "C",
+          "chord_normalized": "C",
+          "beat_start": 29,
+          "beat_duration": 4,
+          "inversion": 0
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 1,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 2,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 3,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 4,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 6,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 6.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 7,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 8,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 8.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 9,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 10,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 11,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 12,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": -1,
+          "beat_start": 13,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 14,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 14.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 15,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 16,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 16.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 17,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 18,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 19,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 20,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 21,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": 0,
+          "beat_start": 22,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 23,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 24,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 24.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 25,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 26,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 26.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 27,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 28,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 28.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 29,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 30,
+          "beat_duration": 3,
+          "is_rest": true
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "hookpad_hash": "RPxeXObegb_",
+      "harmony": [
+        {
+          "chord_roman": "I",
+          "chord_original": "F",
+          "chord_normalized": "C",
+          "beat_start": 1,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vi7",
+          "chord_original": "Dmaj7",
+          "chord_normalized": "Amaj7",
+          "beat_start": 5,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vi",
+          "chord_original": "D",
+          "chord_normalized": "A",
+          "beat_start": 9,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A#",
+          "chord_normalized": "F",
+          "beat_start": 13,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "F",
+          "chord_normalized": "C",
+          "beat_start": 17,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "C",
+          "chord_normalized": "G",
+          "beat_start": 21,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "F",
+          "chord_normalized": "C",
+          "beat_start": 25,
+          "beat_duration": 4,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "C",
+          "chord_normalized": "G",
+          "beat_start": 29,
+          "beat_duration": 4,
+          "inversion": 0
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 1,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 1.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 3,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": 0,
+          "beat_start": 5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 5.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": -1,
+          "beat_start": 7,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 8.5,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 9,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 11,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": 0,
+          "beat_start": 13,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": 0,
+          "beat_start": 13.5,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 14.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 15,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 15.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 16,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 16.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 17,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 18,
+          "beat_duration": 0.5,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 18.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 19,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 19.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 20,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 20.5,
+          "beat_duration": 0.25,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 20.75,
+          "beat_duration": 0.75,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 21.5,
+          "beat_duration": 1,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 22.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 23,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 23.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 24,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 24.5,
+          "beat_duration": 0.25,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 24.75,
+          "beat_duration": 1.25,
+          "is_rest": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1170 @@
+{
+  "metadata": {
+    "title": "Dead",
+    "artist": "They Might Be Giants",
+    "url": "https://www.hooktheory.com/theorytab/view/they-might-be-giants/dead",
+    "original_key": "E",
+    "mode": "major",
+    "normalized_key": "C",
+    "bpm": 249,
+    "time_signature": "6/4",
+    "scraped_at": "2026-04-14T04:13:21.213292"
+  },
+  "sections": [
+    {
+      "name": "Verse",
+      "hookpad_hash": "QLgnErzpm-V",
+      "harmony": [
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 1,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 7,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 10,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 13,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 19,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 22,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 25,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 31,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 34,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 37,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 43,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 49,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 55,
+          "beat_duration": 3,
+          "inversion": 1
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 58,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 61,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 67,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 70,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 73,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 79,
+          "beat_duration": 3,
+          "inversion": 1
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 82,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 85,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV7",
+          "chord_original": "Amaj7",
+          "chord_normalized": "Fmaj7",
+          "beat_start": 91,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 97,
+          "beat_duration": 9,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV7",
+          "chord_original": "Amaj7",
+          "chord_normalized": "Fmaj7",
+          "beat_start": 106,
+          "beat_duration": 3,
+          "inversion": 3
+        },
+        {
+          "chord_roman": "ii",
+          "chord_original": "F#",
+          "chord_normalized": "D",
+          "beat_start": 109,
+          "beat_duration": 9,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 118,
+          "beat_duration": 3,
+          "inversion": 1
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 121,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 127,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V",
+          "chord_original": "B",
+          "chord_normalized": "G",
+          "beat_start": 133,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V7",
+          "chord_original": "Bmaj7",
+          "chord_normalized": "Gmaj7",
+          "beat_start": 139,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 145,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 151,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "ii",
+          "chord_original": "F#",
+          "chord_normalized": "D",
+          "beat_start": 157,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V7",
+          "chord_original": "Bmaj7",
+          "chord_normalized": "Gmaj7",
+          "beat_start": 163,
+          "beat_duration": 6,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 169,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 172,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "ii",
+          "chord_original": "F#",
+          "chord_normalized": "D",
+          "beat_start": 175,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "vii°",
+          "chord_original": "D#",
+          "chord_normalized": "B",
+          "beat_start": 178,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "I",
+          "chord_original": "E",
+          "chord_normalized": "C",
+          "beat_start": 181,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "IV",
+          "chord_original": "A",
+          "chord_normalized": "F",
+          "beat_start": 184,
+          "beat_duration": 3,
+          "inversion": 0
+        },
+        {
+          "chord_roman": "V7",
+          "chord_original": "Bmaj7",
+          "chord_normalized": "Gmaj7",
+          "beat_start": 187,
+          "beat_duration": 6,
+          "inversion": 0
+        }
+      ],
+      "melody": [
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 1,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 3,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 4,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 6,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 7,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 9,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 10,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 12,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 13,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 15,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 16,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 17,
+          "beat_duration": 1,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 18,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 19,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 21,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 22,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 24,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 25,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 27,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 28,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 30,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 31,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 33,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 34,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 36,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 38,
+          "beat_duration": 5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 49,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 51,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 52,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 53,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 54,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 55,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 57,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 58,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 60,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 61,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 63,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 64,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 66,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 67,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 69,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 70,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 72,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 73,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 75,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 76,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 78,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 79,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 81,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 82,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 84,
+          "beat_duration": 2.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 86.5,
+          "beat_duration": 9.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 97,
+          "beat_duration": 1,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 98,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 99,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 100,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 102,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 103,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 105,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 106,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 108,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 109,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 111,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 112,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 114,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 115,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 117,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 118,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 120,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 121,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -2,
+          "beat_start": 123,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 124,
+          "beat_duration": 1,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -2,
+          "beat_start": 125,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 126,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 127,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 129,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 130,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 132,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 133,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 135,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 136,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 138,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 139,
+          "beat_duration": 3,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 142,
+          "beat_duration": 3,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 145,
+          "beat_duration": 1,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 146,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 147,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 148,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 149,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 150,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 151,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 152.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 153,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 154,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": -2,
+          "beat_start": 156,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -2,
+          "beat_start": 157,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 158,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 159,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 160,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 7,
+          "octave_relative": -2,
+          "beat_start": 161,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -2,
+          "beat_start": 162,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -2,
+          "beat_start": 163,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": 0,
+          "beat_start": 164,
+          "beat_duration": 1,
+          "is_rest": true
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 165,
+          "beat_duration": 2,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 167,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 167.5,
+          "beat_duration": 1.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 169,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 170,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 6,
+          "octave_relative": -1,
+          "beat_start": 171,
+          "beat_duration": 2.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 173.5,
+          "beat_duration": 0.5,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 174,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 3,
+          "octave_relative": -1,
+          "beat_start": 175,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 4,
+          "octave_relative": -1,
+          "beat_start": 176,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 5,
+          "octave_relative": -1,
+          "beat_start": 177,
+          "beat_duration": 1,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 2,
+          "octave_relative": -1,
+          "beat_start": 178,
+          "beat_duration": 2.25,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 180.25,
+          "beat_duration": 0.75,
+          "is_rest": false
+        },
+        {
+          "scale_degree": 1,
+          "octave_relative": -1,
+          "beat_start": 181,
+          "beat_duration": 6,
+          "is_rest": false
+        }
+      ]
+    }
+  ]
+}
